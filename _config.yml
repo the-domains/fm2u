@@ -1,15 +1,15 @@
-typography_spectrum: 0.06703432579524815
+typography_spectrum: 0.5467009120620787
 color:
-  brandStrength: 0.7763485782779753
-  lightness: 0.3686013927217573
-  saturation: 0.9148753271438181
-  rhythmicContrast: 0.22942030290141702
+  brandStrength: 0.056485818000510335
+  lightness: 0.35461235884577036
+  saturation: 0.43549598287791014
+  rhythmicContrast: 0.9072424462065101
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 layout_spectrum: 0.6975080997217447
 name: FM2U
 title: From Me to You
