@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T07:02:25.228Z'
+datePublished: '2016-08-05T07:09:23.181Z'
 sourcePath: >-
   _posts/2016-04-19-assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-e.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-05T07:02:19.371Z'
+dateModified: '2016-08-05T07:09:23.025Z'
 title: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
 app_links: []
 publisher:
